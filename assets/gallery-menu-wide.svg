@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Vara Grand Ultra Premium Women's Hostel PG weekly menu</title>
+  <desc id="desc">Wide weekly menu poster for Vara Grand Women's Hostel PG.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fffaf0"/>
+      <stop offset="1" stop-color="#f8efd9"/>
+    </linearGradient>
+    <linearGradient id="dayFill" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#651321"/>
+      <stop offset="1" stop-color="#922735"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="9" stdDeviation="8" flood-color="#5c3118" flood-opacity=".18"/>
+    </filter>
+    <style>
+      .serif{font-family:Georgia,Times New Roman,serif}
+      .sans{font-family:Arial,Helvetica,sans-serif}
+      .title{font-size:112px;font-weight:700;fill:#5d1323}
+      .gold{fill:#b58b28}
+      .head{fill:#0c4b21;stroke:#d4ad48;stroke-width:2}
+      .headText{font-size:25px;font-weight:800;fill:#fff}
+      .cell{fill:#fffdf7;stroke:#b99038;stroke-width:1.45}
+      .day{fill:url(#dayFill);stroke:#f5e1ad;stroke-width:1.8}
+      .dayText{font-size:29px;font-weight:800;fill:#fff}
+      .item{font-size:21px;font-weight:700;fill:#111}
+      .small{font-size:18px;font-weight:800;fill:#14351f}
+    </style>
+  </defs>
+
+  <rect width="1536" height="1024" fill="url(#paper)"/>
+  <rect x="4" y="4" width="1528" height="1016" fill="none" stroke="#ba9338" stroke-width="4"/>
+
+  <g transform="translate(34 28)">
+    <circle cx="55" cy="70" r="58" fill="#0b5426" stroke="#caa13b" stroke-width="5"/>
+    <path d="M29 20l9 23 17-27 17 27 9-23 10 42H19z" fill="#d6ad39"/>
+    <text x="55" y="61" text-anchor="middle" class="serif" font-size="24" font-weight="800" fill="#f8dc79">ULTRA</text>
+    <text x="55" y="89" text-anchor="middle" class="sans" font-size="18" font-weight="800" fill="#fff">PREMIUM</text>
+    <text x="55" y="113" text-anchor="middle" class="sans" font-size="15" font-weight="800" fill="#f8dc79">QUALITY</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <ellipse cx="250" cy="105" rx="150" ry="72" fill="#f7f2e6" stroke="#214b27" stroke-width="4"/>
+    <ellipse cx="195" cy="86" rx="42" ry="28" fill="#fffdf8" stroke="#ddcfb8"/>
+    <ellipse cx="267" cy="78" rx="43" ry="30" fill="#fffdf8" stroke="#ddcfb8"/>
+    <path d="M165 146c56-36 148-27 180 18-60 28-146 16-180-18z" fill="#d98b34" stroke="#8f4d16" stroke-width="3"/>
+    <circle cx="313" cy="121" r="34" fill="#c45b27"/>
+    <circle cx="313" cy="121" r="13" fill="#ffd782"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <ellipse cx="1285" cy="108" rx="170" ry="76" fill="#f7f2e6" stroke="#8b6b2d" stroke-width="4"/>
+    <circle cx="1210" cy="92" r="35" fill="#bd5c26" stroke="#5d321b" stroke-width="3"/>
+    <circle cx="1287" cy="89" r="36" fill="#d47d2a" stroke="#5d321b" stroke-width="3"/>
+    <circle cx="1362" cy="99" r="34" fill="#b44d23" stroke="#5d321b" stroke-width="3"/>
+    <path d="M1240 138c48-17 96-17 145 0v44h-145z" fill="#fff8e7"/>
+    <path d="M1390 128l55 18-55 19z" fill="#ead6a3" stroke="#a47b2a" stroke-width="2"/>
+    <path d="M1332 142l52 20-52 20z" fill="#ead6a3" stroke="#a47b2a" stroke-width="2"/>
+  </g>
+
+  <text x="768" y="108" text-anchor="middle" class="serif title">Vara grand</text>
+  <path d="M731 18l16 40 22-44 22 44 16-40 14 66H717z" fill="#c99f2f"/>
+  <text x="768" y="171" text-anchor="middle" class="serif" font-size="44" font-weight="800" letter-spacing="10" fill="#b58b28">ULTRA PREMIUM</text>
+  <rect x="504" y="184" width="528" height="44" rx="3" fill="#0c4b21"/>
+  <text x="768" y="216" text-anchor="middle" class="serif" font-size="33" font-weight="800" fill="#fff">Women's Hostel - PG</text>
+  <rect x="584" y="229" width="368" height="54" rx="12" fill="#711827" stroke="#c9a03a" stroke-width="4"/>
+  <text x="768" y="267" text-anchor="middle" class="serif" font-size="33" font-weight="800" fill="#fff">WEEKLY MENU</text>
+
+  <g transform="translate(30 292)">
+    <rect x="0" y="0" width="1476" height="688" rx="20" fill="#fffdf7" stroke="#9f7d2f" stroke-width="3"/>
+
+    <rect class="head" x="0" y="0" width="182" height="40" rx="11"/>
+    <rect class="head" x="182" y="0" width="318" height="40"/>
+    <rect class="head" x="500" y="0" width="400" height="40"/>
+    <rect class="head" x="900" y="0" width="300" height="40"/>
+    <rect class="head" x="1200" y="0" width="276" height="40" rx="11"/>
+    <text class="serif headText" x="91" y="29" text-anchor="middle">DAYS</text>
+    <text class="serif headText" x="341" y="29" text-anchor="middle">BREAKFAST</text>
+    <text class="serif headText" x="700" y="29" text-anchor="middle">LUNCH</text>
+    <text class="serif headText" x="1050" y="29" text-anchor="middle">DINNER</text>
+    <text class="serif headText" x="1338" y="29" text-anchor="middle">DINNER (LIGHT)</text>
+
+    <g>
+      <rect class="day" x="0" y="40" width="182" height="92"/><rect class="cell" x="182" y="40" width="318" height="92"/><rect class="cell" x="500" y="40" width="400" height="92"/><rect class="cell" x="900" y="40" width="300" height="92"/><rect class="cell" x="1200" y="40" width="276" height="92"/>
+      <rect class="day" x="0" y="132" width="182" height="92"/><rect class="cell" x="182" y="132" width="318" height="92"/><rect class="cell" x="500" y="132" width="400" height="92"/><rect class="cell" x="900" y="132" width="300" height="92"/><rect class="cell" x="1200" y="132" width="276" height="92"/>
+      <rect class="day" x="0" y="224" width="182" height="92"/><rect class="cell" x="182" y="224" width="318" height="92"/><rect class="cell" x="500" y="224" width="400" height="92"/><rect class="cell" x="900" y="224" width="300" height="92"/><rect class="cell" x="1200" y="224" width="276" height="92"/>
+      <rect class="day" x="0" y="316" width="182" height="92"/><rect class="cell" x="182" y="316" width="318" height="92"/><rect class="cell" x="500" y="316" width="400" height="92"/><rect class="cell" x="900" y="316" width="300" height="92"/><rect class="cell" x="1200" y="316" width="276" height="92"/>
+      <rect class="day" x="0" y="408" width="182" height="92"/><rect class="cell" x="182" y="408" width="318" height="92"/><rect class="cell" x="500" y="408" width="400" height="92"/><rect class="cell" x="900" y="408" width="300" height="92"/><rect class="cell" x="1200" y="408" width="276" height="92"/>
+      <rect class="day" x="0" y="500" width="182" height="92"/><rect class="cell" x="182" y="500" width="318" height="92"/><rect class="cell" x="500" y="500" width="400" height="92"/><rect class="cell" x="900" y="500" width="300" height="92"/><rect class="cell" x="1200" y="500" width="276" height="92"/>
+      <rect class="day" x="0" y="592" width="182" height="92"/><rect class="cell" x="182" y="592" width="318" height="92"/><rect class="cell" x="500" y="592" width="400" height="92"/><rect class="cell" x="900" y="592" width="300" height="92"/><rect class="cell" x="1200" y="592" width="276" height="92"/>
+    </g>
+
+    <g class="serif dayText">
+      <text x="91" y="97" text-anchor="middle">SUNDAY</text>
+      <text x="91" y="189" text-anchor="middle">MONDAY</text>
+      <text x="91" y="281" text-anchor="middle">TUESDAY</text>
+      <text x="91" y="373" text-anchor="middle">WEDNESDAY</text>
+      <text x="91" y="465" text-anchor="middle">THURSDAY</text>
+      <text x="91" y="557" text-anchor="middle">FRIDAY</text>
+      <text x="91" y="649" text-anchor="middle">SATURDAY</text>
+    </g>
+
+    <g class="sans item">
+      <text x="205" y="93">* UMPA</text>
+      <text x="205" y="184">* IDLY / CHUTNEY</text>
+      <text x="205" y="268">* BONDA</text><text x="205" y="295">* PUNGANALU / CHUTNEY</text>
+      <text x="205" y="360">* PULIHORA</text><text x="205" y="387">* LEMON RICE</text>
+      <text x="205" y="461">* DOSA / CHUTNEY</text>
+      <text x="205" y="552">* POORI WITH CURRY</text>
+      <text x="205" y="645">* UTAPPA WITH CHUTNEY</text>
+
+      <text x="530" y="68">* CHICKEN BIRYANI</text><text x="530" y="93">* WHITE RICE</text><text x="530" y="118">* RASAM &amp; CURD</text>
+      <text x="530" y="153">* (PAPPU) DAL</text><text x="530" y="176">* VEG. FRY</text><text x="530" y="199">* RICE</text><text x="530" y="222">* RASAM &amp; CURD</text>
+      <text x="530" y="245">* (PAPPU) DAL</text><text x="530" y="268">* VEG. FRY</text><text x="530" y="291">* RICE</text><text x="530" y="314">* SAMBAR &amp; CURD</text>
+      <text x="530" y="337">* (PAPPU) DAL</text><text x="530" y="360">* VEG. FRY</text><text x="530" y="383">* RICE</text><text x="530" y="406">* SAMBAR &amp; CURD</text>
+      <text x="530" y="429">* (PAPPU) DAL</text><text x="530" y="452">* VEG. FRY</text><text x="530" y="475">* RICE</text><text x="530" y="498">* PULUSU &amp; CURD</text>
+      <text x="530" y="521">* (PAPPU) DAL</text><text x="530" y="544">* VEG. FRY</text><text x="530" y="567">* RICE</text><text x="530" y="590">* RASAM &amp; CURD</text>
+      <text x="530" y="613">* (PAPPU) DAL</text><text x="530" y="636">* VEG. FRY</text><text x="530" y="659">* RICE</text><text x="530" y="682">* PULUSU &amp; CURD</text>
+
+      <text x="925" y="82">* VEG-CURRY</text><text x="925" y="109">* ROAT CHUTNEY</text>
+      <text x="925" y="158">* EGG FRIED RICE OR</text><text x="947" y="183">VEG FRIED RICE</text><text x="925" y="208">* CURD RAITA</text>
+      <text x="925" y="262">* VEG-CURRY</text><text x="925" y="289">* ROAT CHUTNEY</text><text x="925" y="314">* UNLIMITED CHAPATIS</text>
+      <text x="925" y="363">* CHICKEN CURRY</text><text x="925" y="390">* BAGARA RICE</text>
+      <text x="925" y="446">* VEG-CURRY</text><text x="925" y="473">* ROAT CHUTNEY</text><text x="925" y="498">* UNLIMITED CHAPATIS</text>
+      <text x="925" y="532">* BOILED EGG CURRY</text><text x="925" y="557">* BAGARA RICE &amp;</text><text x="947" y="582">WHITE RICE</text>
+      <text x="925" y="630">* VEG-CURRY</text><text x="925" y="657">* ROAT CHUTNEY</text><text x="925" y="682">* UNLIMITED CHAPATIS</text>
+
+      <text x="1224" y="82">* SAMBAR OR RASAM</text><text x="1248" y="109">&amp; CURD</text>
+      <text x="1224" y="174">* SAMBAR OR RASAM</text><text x="1248" y="201">&amp; CURD</text>
+      <text x="1224" y="266">* SAMBAR OR RASAM</text><text x="1248" y="293">&amp; CURD</text>
+      <text x="1224" y="374">* RASAM &amp; CURD</text>
+      <text x="1224" y="450">* SAMBAR/RASAM</text><text x="1248" y="477">&amp; CURD</text>
+      <text x="1224" y="542">* SAMBAR OR RASAM</text><text x="1248" y="569">&amp; CURD</text>
+      <text x="1224" y="634">* SAMBAR/RASAM</text><text x="1248" y="661">&amp; CURD</text>
+    </g>
+  </g>
+
+  <g transform="translate(44 966)">
+    <circle cx="38" cy="24" r="24" fill="#0c4b21" stroke="#c39a34" stroke-width="4"/>
+    <text x="76" y="20" class="sans small">HYGIENIC</text><text x="76" y="39" class="sans small">FOOD</text>
+    <circle cx="214" cy="24" r="24" fill="#0c4b21" stroke="#c39a34" stroke-width="4"/>
+    <text x="252" y="20" class="sans small">QUALITY</text><text x="252" y="39" class="sans small">INGREDIENTS</text>
+    <circle cx="418" cy="24" r="24" fill="#0c4b21" stroke="#c39a34" stroke-width="4"/>
+    <text x="456" y="20" class="sans small">HOME STYLE</text><text x="456" y="39" class="sans small">COOKING</text>
+    <circle cx="600" cy="24" r="24" fill="#0c4b21" stroke="#c39a34" stroke-width="4"/>
+    <text x="638" y="20" class="sans small">NUTRITIOUS</text><text x="638" y="39" class="sans small">&amp; BALANCED</text>
+    <text x="1036" y="40" text-anchor="middle" class="serif" font-size="30" font-style="italic" fill="#711827">Healthy Food  *  Homely Taste  *  Happy Living</text>
+  </g>
+</svg>

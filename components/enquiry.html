@@ -1,0 +1,55 @@
+      <section class="band" id="enquiry">
+        <div class="container split">
+          <div>
+            <div class="section-head">
+              <h2>Enquire about current vacancies.</h2>
+              <p>Share your preferred room type and move-in date. The team can confirm availability, prices, and visit slots.</p>
+            </div>
+            <div class="contact-list">
+              <div class="contact-row">
+                <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.4 19.4 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.3 1.7.6 2.5a2 2 0 0 1-.5 2.1L8 9.5a16 16 0 0 0 6.5 6.5l1.2-1.2a2 2 0 0 1 2.1-.5c.8.3 1.6.5 2.5.6A2 2 0 0 1 22 16.9z"/></svg></span>
+                <div><strong>Quick calls</strong><a href="tel:08460282338">08460282338</a> / <a href="tel:9933954666">9933-954-666</a></div>
+              </div>
+              <div class="contact-row">
+                <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M21 10c0 7-9 12-9 12S3 17 3 10a9 9 0 1 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span>
+                <div><strong>Address</strong><span>Plot 7-1-621/257, Sanjeeva Reddy Nagar, Hyderabad-500038</span></div>
+              </div>
+            </div>
+          </div>
+          <form class="form-panel" id="enquiryForm">
+            <div class="form-grid">
+              <div class="field">
+                <label for="name">Name</label>
+                <input id="name" name="name" autocomplete="name" required>
+              </div>
+              <div class="field">
+                <label for="phone">Phone</label>
+                <input id="phone" name="phone" inputmode="tel" autocomplete="tel" required>
+              </div>
+              <div class="field">
+                <label for="room">Room type</label>
+                <select id="room" name="room" required>
+                  <option value="">Select</option>
+                  <option>2 Sharing</option>
+                  <option>3 Sharing</option>
+                  <option>4 Sharing</option>
+                  <option>AC room</option>
+                  <option>Non-AC room</option>
+                </select>
+              </div>
+              <div class="field">
+                <label for="movein">Move-in date</label>
+                <input id="movein" name="movein" type="date">
+              </div>
+              <div class="field full">
+                <label for="message">Message</label>
+                <textarea id="message" name="message" placeholder="Tell us your preferred sharing type, AC/non-AC choice, and visit time."></textarea>
+              </div>
+              <div class="field full">
+                <button class="btn btn-primary" type="submit">Send Enquiry on WhatsApp</button>
+              </div>
+            </div>
+            <p class="form-note">Submitting opens WhatsApp with your enquiry details.</p>
+          </form>
+        </div>
+      </section>
