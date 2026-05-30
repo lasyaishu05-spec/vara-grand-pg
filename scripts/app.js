@@ -44,6 +44,7 @@
         const data = new FormData(enquiryForm);
         const message = [
           "Hi Vara Grand, I want to enquire about rooms.",
+          "My contact number is +919933954666.",
           `Name: ${data.get("name") || ""}`,
           `Phone: ${data.get("phone") || ""}`,
           `Room type: ${data.get("room") || ""}`,
@@ -53,5 +54,5 @@
 
         toast.classList.add("show");
         window.setTimeout(() => toast.classList.remove("show"), 2600);
-        window.open(`https://wa.me/918460282338?text=${encodeURIComponent(message)}`, "_blank", "noopener,noreferrer");
+        window.open(`https://wa.me/919933954666?text=${encodeURIComponent(message)}`, "_blank", "noopener,noreferrer");
       });
